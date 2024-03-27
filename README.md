@@ -42,6 +42,8 @@
 <h1>Languages/Frameworks i'm good at:</h1>
 <p align="center">
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://www.w3schools.com/c/c_intro.php"><img alt="C" title="C" src="./assets/C.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
@@ -51,7 +53,7 @@
 <p align="center">
   <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
   <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
-  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" title="C++" src="./assets/C++.png" height="42"></a></code>
 </p>
 <!-- Seção de estatísticas do github -->
 <h1>📊 Github Stats</h1>
