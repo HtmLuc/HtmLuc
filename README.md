@@ -20,7 +20,7 @@
 <!-- Descrição sobre mim -->
 <h1>😁 About me</h1>
 <p aling="center">I'm an undergraduate student pursuing a Bachelor of Information Technology at the Universidade Federal do Rio Grande do Norte 🧑‍🎓.</p>
-<p aling="center">On my profile you will find class notes with LaTeX and some activity codes or projects for a class 👨‍💻.</p>
+<p aling="center">On my profile you will find class notes with LaTeX and projects 👨‍💻.</p>
 
 ### More About ME:
 <ul>
