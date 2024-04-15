@@ -1,5 +1,7 @@
 <!-- GIF de apresentação -->
-<a href="https://github.com/HtmLuc">![HtmLuc Profile GIF](./assets/profile_presentation.gif)</a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Lucas+Medeiros." alt="Typing SVG" /></a>
+</h1>
 
 <!-- Icones das redes sociais -->
 <h1 align="center">Social Media:</h1>
@@ -58,7 +60,6 @@
 <!-- Seção de estatísticas do github -->
 <h1>📊 Github Stats</h1>
 <p align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estatística do Github de HtmLuc" src="https://github-readme-stats.vercel.app/api/?username=HtmLuc&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top linguagens do Github de HtmLuc" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtmLuc&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estatística do Github de HtmLuc" src="https://github-readme-stats.vercel.app/api?username=HtmLuc&show_icons=true&count_private=true&theme=gotham&border_radius=10"height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top linguagens do Github de HtmLuc" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtmLuc&langs_count=8&layout=compact&theme=gotham&border_radius=10" height="192px"/></a>
 </p>
