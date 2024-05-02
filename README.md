@@ -7,9 +7,9 @@
   <a href="https://www.instagram.com/lusca_vvv">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/HtmLuc">
+  <!-- <a href="https://www.linkedin.com/in/HtmLuc">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  </a> -->
   <a href="mailto:lucasvdmedeiros.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -20,16 +20,12 @@
 ## 😁 About me
 <ul>
   <li>
-    🔭 I'm interested in back-and.
+    🌱 Hey, i'm Lucas!
+  <li>
+    👨🏾‍💻 I'm working to be front-end developer.
   </li>
   <li>
-    🌱 I’m currently learning C++ & React.
-  </li>
-  <li>
-    👨🏻‍💻 Most of my projects are available on [Github](https://github.com/HtmLuc?tab=repositories).
-  </li>
-  <li>
-    📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/HtmLuc/).
+    🔭 I’m currently learning C++ & React.
   </li>
 </ul>
 
