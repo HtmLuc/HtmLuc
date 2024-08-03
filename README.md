@@ -50,8 +50,7 @@
 ## 📫 Contact me
 
 <div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/HtmLuc)
+  
   [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=flat&logo=Gmail&logoColor=white)](mailto:lucasvdmedeiros.dev@gmail.com)
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://https://github.com/HtmLuc)
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lusca_vvv)
