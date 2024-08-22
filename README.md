@@ -56,3 +56,5 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lusca_vvv)
 
 </div>
+
+![snake gif](https://github.com/HtmLuc/HtmLuc/blob/output/github-contribution-grid-snake.svg)
