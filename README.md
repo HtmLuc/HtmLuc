@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A3F59&height=120&section=header"/>
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=2AA889&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Lucas+Medeiros.;Welcome+to+my+Github!" alt="Typing SVG" /></a>
 </div>
@@ -12,8 +10,11 @@
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=htmluc&show_icons=true&theme=dark" />
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=htmluc&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=dark">
+  ![](https://github-readme-stats.vercel.app/api?username=htmluc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=htmluc&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=htmluc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=htmluc&show_icons=true&theme=dark" />
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=htmluc&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=dark"> -->
   
 </div>
 
